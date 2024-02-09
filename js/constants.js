@@ -20,4 +20,4 @@ export const swiperConfig = {
     },
 };
 
-export const VIMEO_ACCESS_TOKEN = '50e90f3cf8d757b734e1961c9113e43b';
+export const VIMEO_ACCESS_TOKEN = '';
